@@ -12,4 +12,4 @@ def bubble_sort_by(array_to_be_sortedby)
   array_to_be_sortedby
 end
 
-p bubble_sort_by(%W['hi', 'hello', 'hey']) {|left,right| left.length - right.length}
+p bubble_sort_by(%W[hi hello hey]) { |left, right| left.length - right.length }
