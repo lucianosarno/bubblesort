@@ -4,7 +4,8 @@ def bubble_sort(array_to_be_sorted)
     is_sorted = true
     (0...array_to_be_sorted.length - 1).each do |i|
       if array_to_be_sorted[i] > array_to_be_sorted[i.next]
-        array_to_be_sorted[i], array_to_be_sorted[i.next] = array_to_be_sorted[i + 1], array_to_be_sorted[i]
+        array_to_be_sorted[i] = array_to_be_sorted[i.next]
+        array_to_be_sorted[i.next] = array_to_be_sorted[i]
         is_sorted = false
       end
     end
