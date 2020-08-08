@@ -3,11 +3,12 @@ def bubble_sort(array_to_be_sorted)
   until is_sorted
     is_sorted = true
     (0...array_to_be_sorted.length - 1).each do |i|
-      next if array_to_be_sorted[i] > array_to_be_sorted[i.next]
+      if array_to_be_sorted[i] > array_to_be_sorted[i.next]
         array_to_be_sorted[i], array_to_be_sorted[i.next] = array_to_be_sorted[i.next], array_to_be_sorted[i]
         is_sorted = false
       end
     end
+  end
   array_to_be_sorted
 end
 
