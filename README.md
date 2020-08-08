@@ -1,8 +1,8 @@
 # Capstone Project (Online shop)
 
-> In this project, we were required to build two algorithms for sorting an array, using the methods bubble_sort and bubble_sort_bu.
+> In this project, we were required to build two algorithms for sorting an array, using the methods bubble_sort and bubble_sort_by.
 
-![screenshot](images/screenshot.png)
+![Bubble_sort_demo](img/bubble_sort.gif)
 
 ## Built With
 
@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://repl.it/repls/GreatIllSolaris#main.rb)
 
 ## Author
 
@@ -24,6 +24,7 @@
 
 - Github: [@AdesojiCodeMaster](https://github.com/AdesojiCodeMaster)
 - Linkedin: [@adesoji-adewumi-7752aba5/](https://www.linkedin.com/in/adesoji-adewumi-7752aba5/)
+- Twitter: @codemas22665735
 
 ## 🤝 Contributing
 
@@ -46,4 +47,4 @@ This project is open-licensed.
 
 ## 📝 Credits
 
-This project is based on Zattix design created by Mohammed Awad (https://www.behance.net/gallery/24796463/ZATTIX)
+Microverse
