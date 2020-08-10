@@ -2,7 +2,7 @@
 
 > In this project, we were required to build two algorithms for sorting an array, using the methods bubble_sort and bubble_sort_by.
 
-[Bubble_sort_demo](img/bubble_sort.gif)
+(img/bubble_sort.gif)
 
 ## Built With
 
