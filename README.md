@@ -1,8 +1,8 @@
-# Capstone Project (Online shop)
+# Bubble_sort and Bubble_sort_by Methods.
 
 > In this project, we were required to build two algorithms for sorting an array, using the methods bubble_sort and bubble_sort_by.
 
-![Bubble_sort_demo](img/bubble_sort.gif)
+
 
 ## Built With
 
@@ -24,7 +24,7 @@
 
 - Github: [@AdesojiCodeMaster](https://github.com/AdesojiCodeMaster)
 - Linkedin: [@adesoji-adewumi-7752aba5/](https://www.linkedin.com/in/adesoji-adewumi-7752aba5/)
-- Twitter: @codemas22665735
+- Twitter: [@codemas22665735](https://twitter.com/codemas22665735)
 
 ## 🤝 Contributing
 
@@ -32,7 +32,7 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](issues/).
 
-# Show your support
+## Show your support
 
 Give a ⭐️ if you like this project!
 
@@ -46,5 +46,5 @@ Give a ⭐️ if you like this project!
 This project is open-licensed.
 
 ## 📝 Credits
+Microverse.
 
-Microverse
