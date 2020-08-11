@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 def bubble_sort(array_to_be_sorted)
   is_sorted = false
   until is_sorted
@@ -15,4 +13,3 @@ def bubble_sort(array_to_be_sorted)
 end
 
 p bubble_sort([3, 1, 8, 0, 2, 11, 9])
->>>>>>> 68e1c48d9443ffbb2d8b362b4dc2bd3f6f7fa0fc
